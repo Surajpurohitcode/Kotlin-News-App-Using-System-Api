@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_to_old"
+        android:icon="@drawable/square_arrow_down"
+        android:title="New to old" />
+    <item android:id="@+id/old_to_new"
+        android:icon="@drawable/square_arrow_up"
+        android:title="Old to new" />
+</menu>

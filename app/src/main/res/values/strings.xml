@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoEngageNews</string>
+    <string name="toolbar_title">News</string>
+    <string name="source_name">TechCrunch</string>
+    <string name="published_date">2 days ago</string>
+    <string name="news_headline">Exploring the Art and Science of Design</string>
+    <string name="news_description">Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. Today we’re exploring some fascinating data from Silicon Valley Bank markets report for Q1 2020. We’re digging into two charts that deal wit…</string>
+    <string name="author_name">Harshad Prajapati</string>
+</resources>
